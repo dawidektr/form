@@ -23,3 +23,5 @@ I needed one and half hour to finish this project.
 
 ### Live previev
 https://zippy-squirrel-4ddc7a.netlify.app/
+
+Try to open in incognito tab if the background color will be white. Default theme should be dark.
