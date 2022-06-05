@@ -1,7 +1,8 @@
 import React from 'react';
-import { ChakraProvider, Box, theme } from '@chakra-ui/react';
+import { ChakraProvider, Box } from '@chakra-ui/react';
 
 import FinalForm from './FinalForm';
+import theme from './theme';
 
 function App() {
   return (
