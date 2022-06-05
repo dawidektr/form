@@ -20,3 +20,6 @@ Node version: v14.18.1
 npm version: 6.14.15
 
 I needed one and half hour to finish this project.
+
+### Live previev
+https://zippy-squirrel-4ddc7a.netlify.app/
